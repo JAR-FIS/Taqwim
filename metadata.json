@@ -1,0 +1,8 @@
+{
+  "name": "Taqwim - Platform Kuis Islam & Granular Analytics",
+  "description": "Aplikasi kuis interaktif Islami mirip Kahoot dengan kurikulum hierarkis 4-tingkat, penugasan wajib, analitik granular per-bab/sub-bab, dan skema database PostgreSQL lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
